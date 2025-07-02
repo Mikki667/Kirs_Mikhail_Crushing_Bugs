@@ -1,6 +1,11 @@
 # Kirs_Mikhail_Crushing_Bugs
 My homework assignment about fixing bugs in the JavaScript
 
+## About the Project
+
+This is my Human Anatomy Game!
+Drag the labels with the names of the body parts and drop them onto the correct areas of the human body! You can also reset the game and start it all again!
+
 ## Bug Fix Plan
 
 This game had two bugs and I fixed them in this homework.
@@ -59,6 +64,7 @@ You can open it by clicking in index file with your choice of browser.
 
 Folder structure
 html and css update
+JavaScript update
 
 ## Credits
 
