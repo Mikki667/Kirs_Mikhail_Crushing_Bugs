@@ -1,6 +1,10 @@
 # Kirs_Mikhail_Crushing_Bugs
 My homework assignment about fixing bugs in the JavaScript
 
+## Bug Fix Plan
+
+This game had two bugs and I fixed them in this homework.
+
 ## Installation
 
 No installation needed
