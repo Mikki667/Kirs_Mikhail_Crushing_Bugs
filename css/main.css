@@ -124,3 +124,7 @@ h1, p {
         flex-direction: row;
     }
 }
+
+.reset-btn {
+    background-color: #2980b9;
+}
